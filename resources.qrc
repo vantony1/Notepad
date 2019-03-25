@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>C:/Users/victo/Downloads/Icons/Icons/Copy.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/Cut.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/DeleteSticky.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/favicon.ico</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/Highlight.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/New.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/Open.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/Paste.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/Save.bmp</file>
+        <file>C:/Users/victo/Downloads/Icons/Icons/Sticky.bmp</file>
+    </qresource>
+</RCC>
